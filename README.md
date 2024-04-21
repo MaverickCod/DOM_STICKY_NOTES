@@ -11,7 +11,7 @@ This project is a simple implementation of a "Sticky Notes" application where us
 
 ## Preview
 
-[Click here](#https://maverickcod.github.io/DOM_STICKY_NOTES/) to see a live demo of the Sticky Notes project.
+[Click here](https://maverickcod.github.io/DOM_STICKY_NOTES/) to see a live demo of the Sticky Notes project.
 
 
 ## Technologies Used
